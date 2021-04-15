@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "876009485010",
+    "project_id": "edux-vplayer",
+    "storage_bucket": "edux-vplayer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876009485010:android:80d19645a23c5182d4f30b",
+        "android_client_info": {
+          "package_name": "com.codewithshreya.edux_vplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876009485010-auckp9kaiqslivh0hljsdknub50ll61b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrk8TzAymn9NryfN7Etmm7FMjo8T00aAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876009485010-auckp9kaiqslivh0hljsdknub50ll61b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
